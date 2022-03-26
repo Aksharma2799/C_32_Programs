@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610513407 source:c:\users\cse41\desktop\c_32_programs\sum of all number\main.c
+	<stdio.h>
+	<stdlib.h>
+
