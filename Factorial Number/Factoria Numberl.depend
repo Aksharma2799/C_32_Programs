@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610515442 source:c:\users\cse41\desktop\c_32_programs\factoria numberl\main.c
+	<stdio.h>
+	<stdlib.h>
+
